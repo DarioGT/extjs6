@@ -15,5 +15,4 @@ native.json
 /build/
 
 # Logs
-logs
 *.log
